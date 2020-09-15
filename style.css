@@ -20,9 +20,10 @@ body {
   -o-background-size: cover;
   background-size: cover;
   }
+  
   #contact-background, #portfolio-background, #aboutme-background{
 background-color:rgb(179, 173, 230);
-
+padding-bottom: 2%;
   }
 
 
